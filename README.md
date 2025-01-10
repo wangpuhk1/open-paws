@@ -17,7 +17,7 @@ OpenPaw is a project created by and for the open-source community. We believe in
 
 ### Hardware Requirements
 - Field Oriented Control (FOC) motors  
-- Modular quadruped robot chassis  
+- 3D printer or CNC machine  
 - Compatible sensors and controllers  
 
 ### Software Requirements
