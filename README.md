@@ -51,7 +51,7 @@ OpenPaw is licensed under the MIT License. See `LICENSE` for more details.
 
 ## Acknowledgments
 Some code and design are borrowed from following projects:  
-[Cheetash](https://github.com/mit-biomimetics/Cheetah-Software)  
+[Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)  
 [Champ](https://github.com/chvmp/champ)  
 [3D model Design](https://oshwhub.com/gulu666/detector-disaster-scene-3d-reconstruction-robot-dog)  
 Thanks for their contributions!
