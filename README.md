@@ -13,24 +13,11 @@ Submit an issue to this GitHub repository, and we'll do our best to assist you.
 Join our Discord community to discuss and share experiences with fellow builders.
 We look forward to seeing your OpenPaw come to life!
 
-## Key Features
+## Mechanical Design
 
-- **Low Cost and Modular Design**: Affordable and customizable components to enable flexible development.
-- **Cross-Platform Support**: Compatibility with multiple operating systems and hardware setups.
-- **Programmable Gaits and Locomotion**: Create dynamic and adaptive movement patterns.
-- **Inverse Kinematics Support**: Simulate and implement precise real-world movement.
+## Electronics
 
-## Getting Started
-
-### Hardware Requirements
-- Field Oriented Control (FOC) motors  
-- 3D printer or CNC machine  
-- Compatible sensors and controllers  
-
-### Software Requirements
-- Supported programming languages: Python, C++  
-- Libraries: ROS (Robot Operating System), OpenCV (optional)  
-- Simulation tools: Gazebo, PyBullet  
+## Software
 
 ## Installation
 
