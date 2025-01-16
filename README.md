@@ -14,7 +14,9 @@ Join our Discord community to discuss and share experiences with fellow builders
 We look forward to seeing your OpenPaw come to life!
 
 ## Mechanical Design
-
+1. Legs
+2. Joints
+3. Frames
 ## Electronics
 
 ## Software
