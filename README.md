@@ -6,6 +6,13 @@ OpenPaw is an open-source framework designed for building Field Oriented Control
 
 OpenPaw is a project created by and for the open-source community. We believe in the principles of transparency, collaboration, and innovation. By sharing our work, we hope to contribute to the growth of the robotics ecosystem and empower others to build upon it.
 
+##Building OpenPaw
+Welcome to the OpenPaw project! We're excited that you're interested in building your own Quadruped Robotic Pet. In the "3D-model" folder of this repository, you'll find the Solidworks files for the model, which include all the necessary parts you'll need to source. Many of the custom components are designed for 3D printing, so you'll primarily be focusing on post-processing work. For instance, the primary links on each leg assembly require you to drill and tap a hole for a set screw.
+If you encounter any difficulties during the building process, please don't hesitate to seek help. You can:
+Submit an issue to this GitHub repository, and we'll do our best to assist you.
+Join our Discord community to discuss and share experiences with fellow builders.
+We look forward to seeing your OpenPaw come to life!
+
 ## Key Features
 
 - **Low Cost and Modular Design**: Affordable and customizable components to enable flexible development.
