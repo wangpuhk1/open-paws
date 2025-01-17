@@ -17,10 +17,7 @@ We look forward to seeing your OpenPaw come to life!
 ## Mechanical Design
 
 1. Legs  
-<video width="320" height="240" controls>
-    <source src="https://github.com/wangpuhk1/open-paws/blob/main/3D-model/Leg.mp4" autoplay="true" controls="controls" width="800" height="600" type="video/mp4">
-</video>
-
+https://github.com/user-attachments/assets/af28f596-10e2-4926-bd77-97f8b3f10ee5
 2. Joints  
 3. Frames  
 
