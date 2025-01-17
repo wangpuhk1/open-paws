@@ -13,6 +13,10 @@ Submit an issue to this GitHub repository, and we'll do our best to assist you.
 Join our Discord community to discuss and share experiences with fellow builders.
 We look forward to seeing your OpenPaw come to life!
 
+## Bill of Materials
+
+The Bill of Materials for this project can be found [BOM.md](BOM.md).
+
 ## Mechanical Design
 1. Legs
 2. Joints
