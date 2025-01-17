@@ -1,7 +1,5 @@
 # Bill of Materials (BOM)
 
-# Bill of Materials (BOM)
-
 <table>
   <tr>
     <th>Part Number</th>

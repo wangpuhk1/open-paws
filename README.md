@@ -13,12 +13,11 @@ Submit an issue to this GitHub repository, and we'll do our best to assist you.
 Join our Discord community to discuss and share experiences with fellow builders.
 We look forward to seeing your OpenPaw come to life!
 
-## Bill of Materials
-
-The Bill of Materials for this project can be found [BOM.md](BOM.md).
-
 ## Mechanical Design
 1. Legs
+<video width="320" height="240" controls>
+    <source src="https://github.com/wangpuhk1/open-paws/blob/main/3D-model/Leg.mp4" autoplay="true" controls="controls" width="800" height="600" type="video/mp4">
+</video>
 2. Joints
 3. Frames
 ## Electronics
