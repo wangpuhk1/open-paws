@@ -17,7 +17,7 @@ We look forward to seeing your OpenPaw come to life!
 ## Mechanical Design
 
 1. Legs  
-https://github.com/user-attachments/assets/af28f596-10e2-4926-bd77-97f8b3f10ee5
+<video width="630" height="300" src="https://github.com/user-attachments/assets/af28f596-10e2-4926-bd77-97f8b3f10ee5"></video>
 2. Joints  
 3. Frames  
 
